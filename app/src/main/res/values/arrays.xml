@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises_origen">
+        <item>España</item>
+        <item>Francia</item>
+        <item>Portugal</item>
+        <item>Inglaterra</item>
+        <item>Alemania</item>
+        <item>Italia</item>
+        <item>Argentina</item>
+        <item>Estados Unidos</item>
+    </string-array>
+    <string-array name="paises_destino">
+        <item>Francia</item>
+        <item>España</item>
+        <item>Portugal</item>
+        <item>Inglaterra</item>
+        <item>Alemania</item>
+        <item>Italia</item>
+        <item>Argentina</item>
+        <item>Estados Unidos</item>
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gdomhid.myapplication.MainActivity">
+    <item
+        android:id="@+id/mCuenta"
+        android:title="@string/mCuenta" >
+        <menu >
+            <item
+                android:id="@+id/mDatosPersonales"
+                android:title="@string/mDatosPersonales" />
+            <item
+                android:id="@+id/mDocumentosViaje"
+                android:title="@string/mDocumentosViaje" />
+            <item
+                android:id="@+id/mCompañeros"
+                android:title="@string/mCompañeros" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mViajes"
+        android:title="@string/mViajes" />
+    <item
+        android:id="@+id/mTajertasEmbarque"
+        android:title="@string/mTajertasEmbarque" />
+    <item
+        android:id="@+id/mInfoVuelo"
+        android:title="@string/mInfoVuelo" />
+    <item
+        android:id="@+id/mInfoActualizada"
+        android:title="@string/mInfoActualizada" />
+    <item
+        android:id="@+id/mValesRegalo"
+        android:title="@string/mValesRegalo" />
+    <item
+        android:id="@+id/mRevistaVuelo"
+        android:title="@string/mRevistaVuelo" />
+    <item
+        android:id="@+id/mTerminosCondiciones"
+        android:title="@string/mTerminosCondiciones" />
+    <item
+        android:id="@+id/mCentroAyuda"
+        android:title="@string/mCentroAyuda" />
+    <item
+        android:id="@+id/mContacto"
+        android:title="@string/mContacto" />
+    <item
+        android:id="@+id/mPrivacidad"
+        android:title="@string/mPrivacidad" />
+    <item
+        android:id="@+id/mConfigPrivacidad"
+        android:title="@string/mConfigPrivacidad" />
+</menu>

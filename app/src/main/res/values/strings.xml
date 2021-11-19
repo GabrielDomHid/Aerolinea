@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Aerolinea</string>
+    <string name="ivLogo">Imagen con 3 edificios y el nombre de la compañia, air jet</string>
+    <string name="tvOrigen">Origen</string>
+    <string name="tvDestino">Destino</string>
+    <string name="tvTratamiento">Tratamiento</string>
+    <string name="radiobutonSeñor">Sr.</string>
+    <string name="radiobutonSra">Sra.</string>
+    <string name="radiobutonSrta">Srta.</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvApellidos">Apellidos</string>
+    <string name="tvDireccion">Dirección</string>
+    <string name="tvTelefono">Teléfono</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvMovilidadR">Movilidad Reducida</string>
+    <string name="rbSi">Si</string>
+    <string name="rbNo">No</string>
+    <string name="tvExtras">Extras</string>
+    <string name="cbPrimeraClase">Primera Clase</string>
+    <string name="cbAsientoVentanilla">Asiento con Ventanilla</string>
+    <string name="cbMascota">Viajar con mascota</string>
+    <string name="cbDesayuno">Desayuno</string>
+    <string name="cbAlmuerzo">Almuerzo</string>
+    <string name="cbCena">Cena</string>
+    <string name="Switch">Seguro adicional</string>
+    <string name="tvCondicionesSeguro">Estara asegurado por accidente, cubrira todos los gastos y una paga a la familia para toda la vida por morir de esta forma tan fea.</string>
+    <string name="tvTerminosCondiciones">Aceptar los términos y condiciones de la compañía</string>
+    <string name="cbTerminos">Aceptar los términos y condiciones de la compañía</string>
+    <string name="bComprar">Comprar</string>
+    <string name="tvViajePreferente">Viaje Preferente</string>
+    <string name="ibPreferente">imagen de comprar billete preferente</string>
+    <!-- Menu -->
+    <string name="mCuenta">Mi cuenta</string>
+    <string name="mViajes">Mis viajes</string>
+    <string name="mTajertasEmbarque">Tajertas de embarque</string>
+    <string name="mInfoVuelo">Información sobre el vuelo</string>
+    <string name="mInfoActualizada">Info actualizada</string>
+    <string name="mValesRegalo">Vales de regalo</string>
+    <string name="mRevistaVuelo">Revista de vuelo</string>
+    <string name="mTerminosCondiciones">Términos y Condiciones</string>
+    <string name="mCentroAyuda">Centro de Ayuda</string>
+    <string name="mContacto">Contacto con la aerolínea</string>
+    <string name="mPrivacidad">Política de privacidad</string>
+    <string name="mConfigPrivacidad">Configuración de privacidad</string>
+    <string name="mDatosPersonales">Datos personales</string>
+    <string name="mDocumentosViaje">Mis documentos de viaje</string>
+    <string name="mCompañeros">Mis compañeros de viaje</string>
+    <!-- FIN Menu -->
+    <!-- alert dialog -->
+    <string name="aerolinea_Alert">AlertDialog</string>
+    <string name="dialog_message">¿Estás seguro de comprar el viaje preferente? Esto conlleva un coste adicional.</string>
+    <string name="dialog_title">Comprar viaje preferente</string>
+    <string name="tvDate">Fecha</string>
+    <string name="text">Precio del billete:</string>
+    <string name="bPagar">PAGAR</string>
+    <string name="tvExtrass">EXTRAS</string>
+    <string name="tvPrimeraClase">Primera Clase</string>
+    <string name="tvAsientoventana">Asiento con ventanilla</string>
+    <string name="tvMasc">Viajar con mascota</string>
+    <string name="tvNo">No</string>
+    <string name="bConfirm">Confirmar</string>
+    <string name="seguro_adicional">Seguro adicional</string>
+    <string name="tvyes">Yes</string>
+    <!-- fin alert -->
+</resources>
